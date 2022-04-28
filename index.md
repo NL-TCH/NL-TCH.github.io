@@ -8,7 +8,7 @@
 | BIPL | [BIPL install SAMBA](BIPL/BIPL_SAMBA) | March 25, 2022 | Nee | 
 | BIPL | [BIPL configure Disks, Volumes and partitions](BIPL/BIPL_Disks.md) | March 25, 2022 | Nee | 
 | BIPL | [BIPL import CSV files into Active Directory](BIPL/BIPL_CSV2AD.md) | April 2, 2022 | Nee | 
-| BIPL | [BIPL troubleshooting linux](BIPL/BIPL_troubleshooting.md) | April 2, 2022 | Nee | 
+| BIPL | [BIPL troubleshooting linux](BIPL/BIPL_Troubleshooting.md) | April 2, 2022 | Nee | 
 
 
 
