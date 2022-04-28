@@ -1,5 +1,6 @@
 # Markdown: Syntax
 
+[BIPL_DNS.md]link to DNS
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
