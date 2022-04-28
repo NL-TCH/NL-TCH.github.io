@@ -4,7 +4,9 @@ Last edited time: March 25, 2022 1:14 PM
 Reviewed: No
 
 1.installeer eerst de httpd service
-`sudo dnf install httpd`
+```bash
+sudo dnf install httpd
+```
 
 1. start en enable de service
 `sudo systemctl start httpd`

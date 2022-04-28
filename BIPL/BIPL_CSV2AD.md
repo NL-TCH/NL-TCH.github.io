@@ -72,8 +72,12 @@ DSMove is om AD objecten te verplaatsen van OU naar OU. Hieronder wat voorbeelde
 
 Met Powershell kunnen ook AD objecten worden aangemaakt. Bijvoorbeeld een OU:
 
-`New-ADOrganizationalUnit studenten`
+```powershell
+New-ADOrganizationalUnit studenten
+```
 
 Ook kan er een Import worden gedaan van een .csv om gebruikers te importeren:
 
-`import-csv c:\powershell\source\users.csv |New-ADUser`
+```powershell
+import-csv c:\powershell\source\users.csv |New-ADUser
+```

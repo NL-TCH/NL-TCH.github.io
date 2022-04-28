@@ -51,7 +51,9 @@ Reviewed: No
     4. ivm SELinux voer je het volgende commando uit
     `sudo chcon -t samba_share_t /home/secure/`
 4. voeg de service samba toe aan de firewall
-`sudo firewall-cmd --add-service=samba`
-`sudo firewall-cmd --runtime-to-permanent`
-`sudo firewall-cmd --reload`
+```bash
+sudo firewall-cmd --add-service=samba
+sudo firewall-cmd --runtime-to-permanent
+sudo firewall-cmd --reload
+```
 5. ga op een windowsclient in de verkenner naar \\ip\secure en login met de hu gebruiker

@@ -12,8 +12,7 @@
             "file": "index.md",
             "mode": "source"
           }
-        },
-        "group": "2dcbd7441765a1a4"
+        }
       },
       {
         "id": "286fe7aff2f8c29f",
@@ -24,8 +23,7 @@
             "file": "index.md",
             "mode": "preview"
           }
-        },
-        "group": "2dcbd7441765a1a4"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,7 +97,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca9c2290c0b28e58",
+  "active": "286fe7aff2f8c29f",
   "lastOpenFiles": [
     "index.md",
     "noob.jpg",

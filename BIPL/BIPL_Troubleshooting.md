@@ -30,15 +30,12 @@ Write = 2
 Read = 4
 
 zet de permissies voor alleen de Owner Read,Write en Execute toe met bijvoorbeeld:
-
 `chmod 700 test.html`
 
 ook kan je met letters werken
-
 `chmod u +wrx test.html` (u=user +rwx is toevoegen van read,write,execute)
 
 om rechten te verwijderen voor de others groep gebruik je de volgende syntax
-
 `chmod o -rwx test.html` (o=others -rwx is het verwijderen van read,write,execute)
 
 # Troubleshooten DNS en DHCP

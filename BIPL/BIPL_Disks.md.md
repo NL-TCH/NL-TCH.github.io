@@ -10,7 +10,9 @@ in dit scenario sdb en sdc
 # Partities maken
 
 1. maak met fdisk partities op de schijf /dev/sdb
-`sudo fdisk /dev/sdb`
+```bash
+sudo fdisk /dev/sdb
+```
 2. type `n` voor een nieuwe partitie
 3. type `p` voor een primarie en `e` voor een extended partitie
 4. geef een partitienummer op (default is meestal goed)
@@ -22,7 +24,9 @@ in dit scenario sdb en sdc
 # Bestandssystemen op partities zetten
 
 1. als we op sdb1 een ext3 bestandssysteem willen zetten voeren we het volgende uit:
-`sudo mkfs -t ext3 /dev/sdb1`
+```bash
+sudo mkfs -t ext3 /dev/sdb1
+```
 2. als we dan `lsblk --fs` uitvoeren zie je dat sdb1 het bestandssysteem ext3 heeft
 
 # VolumeGroup maken
@@ -36,7 +40,9 @@ in dit scenario sdb en sdc
 `lvcreate <size> <name> <volumegroepdestination>
 lvcreate -L 1 GB -n lv_webcontent VGDATA`
 5. maak op het logische volume een bestandssysteem xfs (kan net zo goed ext3 of ext4 zijn)
-`mkfs -t xfs -f /dev/VGDATA/lv_webcontent`
+```bash
+mkfs -t xfs -f /dev/VGDATA/lv_webcontent
+```
 
 ![Untitled](Configureren%20Disks,Volumes%20en%20VolumeGroups%2071a7a350019d4ee9a04175cfd08344e0/Untitled.png)
 
@@ -44,7 +50,9 @@ lvcreate -L 1 GB -n lv_webcontent VGDATA`
 
 1. maak bijvoorbeeld een /data map aan
 2. mount daarna het logische volume aan de map data
-`sudo mount /dev/VGDATA/lv_webcontent /data`
+```bash
+sudo mount /dev/VGDATA/lv_webcontent /data
+```
 dit kan ook met andere partities en hoeft niet perse alleen met logische volumes/volumegroups
 
 een andere manier om te mounten is het bewerken van fstab

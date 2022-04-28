@@ -3,10 +3,22 @@
 Last edited time: March 25, 2022 11:43 AM
 Reviewed: No
 
+**Dit scenario bevat:
+Netwerkaddres: 192.16.6.0
+subnet 255.255.255.0 (/24)
+uitgeefbare range: 192.168.6.30 tot 192.168.6.60
+dns server: 1.1.1.1
+default gateway: 192.16.6.1
+broadcast address: 192.16.6.255**
+
 1. installeer de dhcp service
-`sudo dnf install dhcp-server`
+```bash
+sudo dnf install dhcp-server
+```
 2. kopieer het voorbeeldbestand naar de configuratiemap
-`sudo cp /usr/share/doc/dhcp-server/dhcpd.conf.example /etc/dhcp/dhcpd.conf`
+```bash
+sudo cp /usr/share/doc/dhcp-server/dhcpd.conf.example /etc/dhcp/dhcpd.conf
+```
 3. comment in de dhcpd.conf alle configuraties uit **Na de regel log-facility** op degene na met `A slightly different configuration for an internal subnet`
 
 ```bash
@@ -22,7 +34,11 @@ subnet 192.168.6.0 netmask 255.255.255.0 {
 ```
 
 1. Start the dhcpd service
-`sudo systemctl start dhcpd`
+```bash
+sudo systemctl start dhcpd
+```
 2. zet op een windows client de netwerkkaart op ‘obtain automatically’
 3. voer op de windowsclient het volgende commando uit om een ip address op te vragen
-`ipconfig /renew`
+```powershell
+ipconfig /renew
+```

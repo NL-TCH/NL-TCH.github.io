@@ -9,10 +9,14 @@ Domein: bmc.test
 ip address: 192.168.5.2**
 
 1. Installeer named 
-`sudo dnf install bind
+```bash
+sudo dnf install bind
+```
 
 2. zet de hostname van de vm correct
-`hostname dnsrehl.bmc.test`
+```bash
+hostname dnsrehl.bmc.test
+```
 3. edit `/etc/named.conf` en voeg de zone toe
 
 ```bash
@@ -50,11 +54,15 @@ www     IN	CNAME   dnsrehl
 1. start de named service
 `systemctl start named`
 2. laat de firewall poort 53 voor DNS verkeer toestaan voor TCP en UDP
-`sudo firewall-cmd --permanent --add-port=53/tcp --zone=public
+```bash
+sudo firewall-cmd --permanent --add-port=53/tcp --zone=public
 sudo firewall-cmd --permanent --add-port=53/udp --zone=public
-sudo firewall-cmd --reload`
+sudo firewall-cmd --reload
+```
 3. zet je lokale server in je resolv.conf bestand (te vinden in /etc/resolv.conf)
 4. test de dns door de volgende commando’s uit te voeren
-`nslookup www.bmc.test`
-`dig www.bmc.test`
-`host dnsrehl.bmc.test`
+```bash
+nslookup www.bmc.test
+dig www.bmc.test
+host dnsrehl.bmc.test
+```
