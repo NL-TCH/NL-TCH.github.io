@@ -1,26 +1,11 @@
 # Markdown: Syntax
 
-[link](BIPL_DNS.md)
-*   [Overview](#overview)
-    *   [Philosophy](#philosophy)
-    *   [Inline HTML](#html)
-    *   [Automatic Escaping for Special Characters](#autoescape)
-*   [Block Elements](#block)
-    *   [Paragraphs and Line Breaks](#p)
-    *   [Headers](#header)
-    *   [Blockquotes](#blockquote)
-    *   [Lists](#list)
-    *   [Code Blocks](#precode)
-    *   [Horizontal Rules](#hr)
-*   [Span Elements](#span)
-    *   [Links](#link)
-    *   [Emphasis](#em)
-    *   [Code](#code)
-    *   [Images](#img)
-*   [Miscellaneous](#misc)
-    *   [Backslash Escapes](#backslash)
-    *   [Automatic Links](#autolink)
-
+[BIPL install DNS](BIPL_DNS.md)
+[BIPL install DHCP](BIPL_DHCP.md)
+[BIPL install HTTPD](BIPL_HTTPD)
+[BIPL install SAMBA](BIPL_SAMBA)
+[BIPL configure Disks, Volumes and partitions](BIPL_Disks.md)
+[BIPL import CSV files into Active Directory](BIPL_CSV2AD.md)
 
 **Note:** This document is itself written using Markdown; you
 can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).

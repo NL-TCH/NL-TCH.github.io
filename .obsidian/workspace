@@ -9,11 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BIPL_DNS.md",
-            "mode": "preview",
-            "source": false
+            "file": "index.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "c92d9aaa1268e6e4"
+      },
+      {
+        "id": "076d92cd7fa0b2f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c92d9aaa1268e6e4"
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIPL_DNS.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +101,11 @@
   },
   "active": "ca9c2290c0b28e58",
   "lastOpenFiles": [
-    "BIPL_DNS.md",
     "index.md",
+    "BIPL/BIPL_DHCP.md",
+    "BIPL/BIPL_Disks.md.md",
+    "BIPL/BIPL_Troubleshooting Linux.md",
+    "BIPL/BIPL_DNS.md",
     "link.md"
   ]
 }

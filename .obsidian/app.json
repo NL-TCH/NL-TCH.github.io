@@ -1,5 +1,5 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
+  "legacyEditor": true,
+  "livePreview": false,
   "promptDelete": false
 }
