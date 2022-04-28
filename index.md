@@ -1,11 +1,17 @@
 # Markdown: Syntax
 
-[BIPL install DNS](BIPL_DNS.md)
-[BIPL install DHCP](BIPL_DHCP.md)
-[BIPL install HTTPD](BIPL_HTTPD)
-[BIPL install SAMBA](BIPL_SAMBA)
-[BIPL configure Disks, Volumes and partitions](BIPL_Disks.md)
-[BIPL import CSV files into Active Directory](BIPL_CSV2AD.md)
+[BIPL install DNS](BIPL/BIPL_DNS.md)
+
+[BIPL install DHCP](BIPL/BIPL_DHCP.md)
+
+[BIPL install HTTPD](BIPL/BIPL_HTTPD)
+
+[BIPL install SAMBA](BIPL/BIPL_SAMBA)
+
+[BIPL configure Disks, Volumes and partitions](BIPL/BIPL_Disks.md)
+
+[BIPL import CSV files into Active Directory](BIPL/BIPL_CSV2AD.md)
+
 
 **Note:** This document is itself written using Markdown; you
 can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).
