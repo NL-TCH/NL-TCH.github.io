@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "286fe7aff2f8c29f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "286fe7aff2f8c29f",
+  "active": "ca9c2290c0b28e58",
   "lastOpenFiles": [
     "index.md",
-    "noob.jpg",
-    "Untitled.md",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 5.png",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 4.png",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 3.png",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 2.png",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 1.png",
-    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled.png",
-    "BIPL/BIPL_Troubleshooting.md"
+    "pdf/BIPL_CSV2AD.pdf",
+    "BIPL/BIPL_Troubleshooting.md",
+    "BIPL/BIPL_SAMBA.md",
+    "BIPL/BIPL_HTTPD.md",
+    "BIPL/BIPL_DNS.md",
+    "BIPL/BIPL_Disks.md.md",
+    "BIPL/BIPL_DHCP.md",
+    "BIPL/BIPL_CSV2AD.md",
+    "noob.jpg"
   ]
 }
