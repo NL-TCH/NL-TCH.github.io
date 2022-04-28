@@ -1,6 +1,6 @@
 # Markdown: Syntax
 
-[BIPL_DNS.md]link to DNS
+[link](BIPL_DNS.md)
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
