@@ -5,7 +5,7 @@ Reviewed: No
 
 # Rechten controleren
 
-[](https://linuxize.com/post/chmod-command-in-linux/)
+[meer informatie en de bron van onderstaande informatie](https://linuxize.com/post/chmod-command-in-linux/)
 
 als services niet werken kan het eraan liggen dat de service (bijv apache) geen rechten heeft op het .html bestand. controleer de rechten met `ls -al`
 
@@ -23,15 +23,10 @@ Verander de owner van het bestand met chown. De syntax van chown is:
 om de rechten (read,write of execute) aan te passen op een bestand gebruik je chmod. 
 
 de rechtenvolgorde is:
-
 Owner-Group-Others
-
 je kan rechten toevoegen met getallen.
-
 Execute = 1
-
 Write = 2
-
 Read = 4
 
 zet de permissies voor alleen de Owner Read,Write en Execute toe met bijvoorbeeld:

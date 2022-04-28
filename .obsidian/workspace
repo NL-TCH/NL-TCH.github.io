@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BIPL/BIPL_Troubleshooting.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BIPL/BIPL_Troubleshooting.md",
+            "file": "index.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIPL/BIPL_Troubleshooting.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,15 @@
   },
   "active": "ca9c2290c0b28e58",
   "lastOpenFiles": [
-    "BIPL/BIPL_Troubleshooting.md",
     "index.md",
-    "BIPL/BIPL_DHCP.md",
-    "BIPL/BIPL_Disks.md.md",
-    "BIPL/BIPL_DNS.md",
-    "link.md"
+    "noob.jpg",
+    "Untitled.md",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 5.png",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 4.png",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 3.png",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 2.png",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled 1.png",
+    "BIPL/Importeren CSV fc5b322e1c5e46858b10c2e73b47626a/Untitled.png",
+    "BIPL/BIPL_Troubleshooting.md"
   ]
 }
