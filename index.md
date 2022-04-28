@@ -15,4 +15,8 @@
 
 ---
 
-![[noob.jpg]]
+<p align="center">
+  klas V1E tijdens BIPL en EIPL
+  </br>
+  <img src="noob.jpg" width="373" height="234" border="10"/>
+</p>
