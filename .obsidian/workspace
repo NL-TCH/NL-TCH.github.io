@@ -12,7 +12,20 @@
             "file": "index.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "df62925b8c32f614"
+      },
+      {
+        "id": "e6ff74c8099f7819",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "df62925b8c32f614"
       }
     ],
     "direction": "vertical"
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca9c2290c0b28e58",
+  "active": "e6ff74c8099f7819",
   "lastOpenFiles": [
     "index.md",
+    "EIPL/EIPL_IDM_Server.md",
+    "EIPL/EIPL_IDM_Client.md",
+    "assets/noob.jpg",
+    "assets/download.png",
     "pdf/BIPL_CSV2AD.pdf",
-    "BIPL/BIPL_Troubleshooting.md",
-    "BIPL/BIPL_SAMBA.md",
-    "BIPL/BIPL_HTTPD.md",
     "BIPL/BIPL_DNS.md",
-    "BIPL/BIPL_Disks.md.md",
-    "BIPL/BIPL_DHCP.md",
     "BIPL/BIPL_CSV2AD.md",
-    "noob.jpg"
+    "BIPL/BIPL_Troubleshooting.md",
+    "BIPL/BIPL_SAMBA.md"
   ]
 }
