@@ -13,10 +13,10 @@
             "mode": "source"
           }
         },
-        "group": "df62925b8c32f614"
+        "group": "1aa99f1c1ed87425"
       },
       {
-        "id": "e6ff74c8099f7819",
+        "id": "4cd3b71a3dfbc4de",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "df62925b8c32f614"
+        "group": "1aa99f1c1ed87425"
       }
     ],
     "direction": "vertical"
@@ -100,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca9c2290c0b28e58",
+  "active": "4cd3b71a3dfbc4de",
   "lastOpenFiles": [
     "index.md",
+    "EIPL/Linux Raid.md",
+    "EIPL/EIPL_IDM_Server.md",
     "BIPL/BIPL_CSV2AD.md",
     "EIPL/EIPL_IDM_Client.md",
-    "EIPL/EIPL_IDM_Server.md",
     "assets/noob.jpg",
     "assets/download.png",
     "pdf/BIPL_CSV2AD.pdf",
     "BIPL/BIPL_DNS.md",
-    "BIPL/BIPL_Troubleshooting.md",
-    "BIPL/BIPL_SAMBA.md"
+    "BIPL/BIPL_Troubleshooting.md"
   ]
 }
