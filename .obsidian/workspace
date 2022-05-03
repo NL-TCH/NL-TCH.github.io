@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "EIPL/EIPL_Linux_Raid.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "EIPL/EIPL_Linux_Raid.md",
             "mode": "preview"
           }
         },
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8bd142c231a1da79",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "EIPL/EIPL_Linux_Raid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +101,7 @@
   },
   "active": "4cd3b71a3dfbc4de",
   "lastOpenFiles": [
+    "EIPL/EIPL_Linux_Raid.md",
     "index.md",
     "EIPL/Linux Raid.md",
     "EIPL/EIPL_IDM_Server.md",
@@ -110,7 +110,6 @@
     "assets/noob.jpg",
     "assets/download.png",
     "pdf/BIPL_CSV2AD.pdf",
-    "BIPL/BIPL_DNS.md",
-    "BIPL/BIPL_Troubleshooting.md"
+    "BIPL/BIPL_DNS.md"
   ]
 }
