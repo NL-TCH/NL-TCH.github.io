@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8bd142c231a1da79",
@@ -99,16 +100,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6ff74c8099f7819",
+  "active": "ca9c2290c0b28e58",
   "lastOpenFiles": [
     "index.md",
-    "EIPL/EIPL_IDM_Server.md",
+    "BIPL/BIPL_CSV2AD.md",
     "EIPL/EIPL_IDM_Client.md",
+    "EIPL/EIPL_IDM_Server.md",
     "assets/noob.jpg",
     "assets/download.png",
     "pdf/BIPL_CSV2AD.pdf",
     "BIPL/BIPL_DNS.md",
-    "BIPL/BIPL_CSV2AD.md",
     "BIPL/BIPL_Troubleshooting.md",
     "BIPL/BIPL_SAMBA.md"
   ]

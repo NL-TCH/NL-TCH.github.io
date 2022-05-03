@@ -23,10 +23,3 @@
   <img src="assets\noob.jpg" width="373" height="234" border="10"/>
 </p>
 
-
-
-
-   
-# to do:
-- [ ] IPASS VYOS handleiding
-- [ ] EIPL linux handleidingen
