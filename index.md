@@ -20,10 +20,8 @@
 
 
 ---
-
-<p align="center">
-  klas V1E tijdens BIPL en EIPL
-  <br>
-  <img src="assets\noob.jpg" width="373" height="234" border="10"/>
-</p>
-
+# Handleidingen IPASS
+	
+| **Handleiding** | **Laatst bijgewerkt op** | **Gecontroleerd** | Download |
+|---|---|---|---|
+| [IPASS VYOS RIP](IPASS/IPASS_VYOS_RIP.md) | May 7, 2022 | Nee | <a href="pdf\IPASS_VYOS_RIP.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
