@@ -25,7 +25,7 @@ Hostname: server1.school.test**
 
 1. installeer de idM software
 `sudo dnf module enable idm:DL1`
-2. installeer de DNS server voor de IDM installatie
+2. installeer de IPA server voor de IDM installatie
 `sudo dnf install ipa-server ipa-server-dns -y`
 3. **zet nu de dns server op het eigen ip address in plaats van de online DNS server
 controleer dit ook in** `/etc/resolv.conf`

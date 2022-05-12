@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9c2290c0b28e58",
+        "id": "9d1ca304fd4970dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,20 +12,7 @@
             "file": "index.md",
             "mode": "source"
           }
-        },
-        "group": "df62925b8c32f614"
-      },
-      {
-        "id": "e6ff74c8099f7819",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "preview"
-          }
-        },
-        "group": "df62925b8c32f614"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca9c2290c0b28e58",
+  "active": "9d1ca304fd4970dd",
   "lastOpenFiles": [
     "index.md",
-    "README.md",
-    "IPASS/IPASS_VYOS_RIP.md",
-    "assets/noob.jpg",
-    "EIPL/EIPL_IDM_Server.md",
+    "EIPL/EIPL_IDM_Replica (peer domain controller).md",
+    "IPASS/IPASS_VYOS_DHCP-relay.md",
+    "IPASS/IPASS_VYOS_LACP.md",
     "EIPL/EIPL_IDM_Client.md",
-    "assets/download.png",
-    "pdf/BIPL_CSV2AD.pdf",
-    "BIPL/BIPL_DNS.md",
-    "BIPL/BIPL_CSV2AD.md"
+    "EIPL/EIPL_IDM_Server.md",
+    "IPASS/IPASS_VYOS_RIP.md",
+    "IPASS/IPASS_VYOS_OSPF.md",
+    "IPASS/IPASS_VYOS_NAT.md",
+    "EIPL/EIPL_Linux_Raid.md"
   ]
 }
