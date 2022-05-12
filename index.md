@@ -14,7 +14,7 @@
 | BIPL | [BIPL troubleshooting linux](BIPL/BIPL_Troubleshooting.md) | April 2, 2022 | Nee | <a href="pdf\BIPL_Troubleshooting.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | EIPL | [EIPL IDM Server](EIPL/EIPL_IDM_Server.md) | May 2, 2022 | Nee | <a href="pdf\EIPL_IDM_Server.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | EIPL | [EIPL IDM Client](EIPL/EIPL_IDM_Client.md) | May 2, 2022 | Nee | <a href="pdf\EIPL_IDM_Client.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
-| EIPL | [EIPL IDM Replica](EIPL/EIPL_IDM_Replica (peer domain controller).md) | May 12, 2022 | Nee | <a href="pdf\EIPL_IDM_Replica (peer domain controller).pdf">  <img alt="Download" src="assets\download.png" width="20">  |
+| EIPL | [EIPL IDM Replica](EIPL/EIPL_IDM_Replica.md) | May 12, 2022 | Nee | <a href="pdf\EIPL_IDM_Replica (peer domain controller).pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | EIPL | [EIPL Linux Raid](EIPL/EIPL_Linux_Raid.md) | May 3, 2022 | Nee | <a href="pdf\EIPL_Linux_Raid.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 
 
