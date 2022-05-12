@@ -1,6 +1,6 @@
 # Handleidingen BIPL & EIPL
 
-## Gebruik de downloadknop voor een PDF versie, de pdf versie heeft betere opmaak dan de markdownbestanden
+## Gebruik de downloadknop voor een PDF versie, de pdf versie heeft betere opmaak dan de markdown bestanden
 
 
 | **Vak** | **Handleiding** | **Laatst bijgewerkt op** | **Gecontroleerd** | Download |
