@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "source"
+            "file": "BIPL/BIPL_SAMBA.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "BIPL/BIPL_SAMBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "9d1ca304fd4970dd",
   "lastOpenFiles": [
+    "BIPL/BIPL_SAMBA.md",
+    "BIPL/BIPL_DNS.md",
     "index.md",
     "EIPL/EIPL_IDM_Server.md",
     "EIPL/EIPL_IDM_Replica.md",
@@ -95,8 +97,6 @@
     "IPASS/IPASS_VYOS_LACP.md",
     "EIPL/EIPL_IDM_Client.md",
     "IPASS/IPASS_VYOS_RIP.md",
-    "IPASS/IPASS_VYOS_OSPF.md",
-    "IPASS/IPASS_VYOS_NAT.md",
-    "EIPL/EIPL_Linux_Raid.md"
+    "IPASS/IPASS_VYOS_OSPF.md"
   ]
 }
