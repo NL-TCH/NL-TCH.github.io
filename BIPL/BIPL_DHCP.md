@@ -22,14 +22,14 @@ sudo cp /usr/share/doc/dhcp-server/dhcpd.conf.example /etc/dhcp/dhcpd.conf
 3. comment in de dhcpd.conf alle configuraties uit **Na de regel log-facility** op degene na met `A slightly different configuration for an internal subnet`
 
 ```bash
-subnet 192.168.6.0 netmask 255.255.255.0 {
-  range 192.168.6.30 192.168.6.60;
-  option domain-name-servers 1.1.1.1;
-  option domain-name "bmc.test";
-  option routers 192.168.6.1;
-  option broadcast-address 192.168.6.255;
-  default-lease-time 600;
-  max-lease-time 7200;
+subnet 192.168.6.0 netmask 255.255.255.0 { #het netwerkaddress + subnetmask
+  range 192.168.6.30 192.168.6.60;  #eerste en laatste uitgeefbare adres
+  option domain-name-servers 1.1.1.1; #een dns server (kan lokale server zijn)
+  option domain-name "bmc.test"; #een naam die rechtsonderin komt te staan
+  option routers 192.168.6.1; #een default gateway (voor de client)
+  option broadcast-address 192.168.6.255; #een broadcastadres voor het netwerk
+  default-lease-time 600; #dit is een standaard instelling (houden staan)
+  max-lease-time 7200; #dit is een standaard instelling (houden staan)
 }
 ```
 

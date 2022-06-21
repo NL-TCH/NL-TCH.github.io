@@ -3,6 +3,8 @@
 Last edited time: March 25, 2022 11:43 AM
 Reviewed: No
 
+**In dit scenario word de groep smbgrp en de gebruiker hu gebruikt, dit kan in jouw geval anders zijn.**
+
 1. installeer samaba
 `sudo dnf install samba`
 2. maak voor de zekerheid een backup van /etc/samba/smb.conf
@@ -56,4 +58,4 @@ sudo firewall-cmd --add-service=samba
 sudo firewall-cmd --runtime-to-permanent
 sudo firewall-cmd --reload
 ```
-5. ga op een windowsclient in de verkenner naar \\ip\secure en login met de hu gebruiker
+5. ga op een windowsclient in de verkenner naar \\\\{ip}\secure en login met de hu gebruiker
