@@ -31,7 +31,7 @@ Reviewed: No
 ```
 
 1. start de services smb en nmb
-`systmctl start smb nmb`
+`systemctl start smb nmb`
 2. configureer de groep en de gebruiker
     1. voeg een gebruiker toe (bijv hu)
     `sudo useradd hu`
