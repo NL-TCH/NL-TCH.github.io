@@ -6,6 +6,7 @@ Reviewed: No
 **Waarden in dit scenario:
 dns-server: dmz1.hgb.nl (10.2.0.10)
 reverse zone voor ip-reeks: 10.1.0.0/16**
+voor visualisatie gebruik: https://www.youtube.com/watch?v=xUGSEdFV-W4 
 
 
 Een forward zone is het vertalen van naam naar ip, hiermee kan je dus directory1.hgb.nl pingen, dit wordt vertaald naar een IP-adres waar daadwerkelijk op gepinged wordt.
