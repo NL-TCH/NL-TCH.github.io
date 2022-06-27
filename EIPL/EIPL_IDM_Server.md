@@ -33,8 +33,7 @@ controleer dit ook in** `/etc/resolv.conf`
 `xx.xx.xx.xx.xx server1.school.local  server1`
 `xx.xx.xx.xx.xx client1.school.local  client1`
 5. pas de firewall aan om alle services door te laten
-`sudo firewall-cmd --add-service={http,https,dns,ntp,freeipa-ldap,freeipa-ldaps} --permanent
-sudo firewall-cmd --reload`
+`sudo firewall-cmd --add-service={http,https,dns,ntp,freeipa-ldap,freeipa-ldaps} --permanent; sudo firewall-cmd --reload`
 6. maak een eventuele snapshot
 7. installeer de ipa-server
 `sudo ipa-server-install`

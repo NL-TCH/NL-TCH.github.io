@@ -16,7 +16,7 @@
 | EIPL | [EIPL IDM Client](EIPL/EIPL_IDM_Client.md) | May 2, 2022 | Nee | <a href="pdf\EIPL_IDM_Client.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | EIPL | [EIPL IDM Replica (peer IPA-server )](EIPL/EIPL_IDM_Replica.md) | May 12, 2022 | Nee | <a href="pdf\EIPL_IDM_Replica (peer domain controller).pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | EIPL | [EIPL Linux Raid](EIPL/EIPL_Linux_Raid.md) | May 3, 2022 | Nee | <a href="pdf\EIPL_Linux_Raid.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
-
+| EIPL | [EIPL Openvpn](EIPL/EIPL_Openvpn.md) | June 27, 2022 | Nee | <a href="pdf\EIPL_Openvpn.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 
 
 
@@ -30,3 +30,7 @@
 | [IPASS VYOS DHCP-relay](IPASS/IPASS_VYOS_DHCP-relay.md) | May 12, 2022 | Nee | <a href="pdf\IPASS_VYOS_DHCP-relay.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | [IPASS VYOS LACP](IPASS/IPASS_VYOS_LACP.md) | May 12, 2022 | Nee | <a href="pdf\IPASS_VYOS_LACP.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | [IPASS VYOS NAT](IPASS/IPASS_VYOS_NAT.md) | May 12, 2022 | Nee | <a href="pdf\IPASS_VYOS_NAT.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
+| [IPASS DNS reverse zone](IPASS/IPASS_DNS_reverse_zone.md) | June 27, 2022 | Nee | <a href="pdf\IPASS_DNS_reverse_zone.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
+
+	
+	

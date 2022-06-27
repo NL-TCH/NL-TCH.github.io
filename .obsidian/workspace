@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf34f27944777d9",
+        "id": "9d1ca304fd4970dd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebf34f27944777d9",
+  "active": "9d1ca304fd4970dd",
   "lastOpenFiles": [
-    "pdf/BIPL_Disks.pdf",
-    "pdf/BIPL_DHCP.pdf",
     "index.md",
-    "BIPL/BIPL_SAMBA.md",
-    "BIPL/BIPL_DHCP.md",
-    "BIPL/BIPL_DNS.md",
-    "EIPL/EIPL_IDM_Server.md",
-    "EIPL/EIPL_IDM_Replica.md",
+    "EIPL/EIPL_Openvpn.md",
+    "IPASS/IPASS_DNS_reverse_zone.md",
+    "IPASS/IPASS_VYOS_RIP.md",
     "IPASS/IPASS_VYOS_DHCP-relay.md",
-    "IPASS/IPASS_VYOS_LACP.md"
+    "EIPL/EIPL_IDM_Server.md",
+    "EIPL/EIPL_Linux_Raid.md",
+    "EIPL/EIPL_IDM_Client.md",
+    "IPASS/IPASS_VYOS_NAT.md",
+    "BIPL/BIPL_DHCP.md"
   ]
 }
