@@ -32,5 +32,6 @@
 | [IPASS VYOS NAT](IPASS/IPASS_VYOS_NAT.md) | May 12, 2022 | Nee | <a href="pdf\IPASS_VYOS_NAT.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 | [IPASS DNS reverse zone](IPASS/IPASS_DNS_reverse_zone.md) | June 27, 2022 | Nee | <a href="pdf\IPASS_DNS_reverse_zone.pdf">  <img alt="Download" src="assets\download.png" width="20">  |
 
-	
-	
+<br/><br/>
+
+# [Aantekeningen](aantekeningen/aantekeningen.md)
